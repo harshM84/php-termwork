@@ -13,6 +13,7 @@ include("config.php");
             <td>COMPID</td>
             <td>COMPNM</td>
             <td>DATE</td>
+		
         </tr>
         <tr>
             <?php
